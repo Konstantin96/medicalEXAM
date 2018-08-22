@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGOV.medical", "EGOV.medical\EGOV.medical.csproj", "{B91B2A81-92C3-4791-805F-DCD883D6A564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egov.Medical.lib", "Egov.Medical.lib\Egov.Medical.lib.csproj", "{9BB9C8B7-53AC-43BF-BC2D-3F5E17E44729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91B2A81-92C3-4791-805F-DCD883D6A564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91B2A81-92C3-4791-805F-DCD883D6A564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91B2A81-92C3-4791-805F-DCD883D6A564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91B2A81-92C3-4791-805F-DCD883D6A564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB9C8B7-53AC-43BF-BC2D-3F5E17E44729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB9C8B7-53AC-43BF-BC2D-3F5E17E44729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB9C8B7-53AC-43BF-BC2D-3F5E17E44729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB9C8B7-53AC-43BF-BC2D-3F5E17E44729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
